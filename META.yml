@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               ACME-PM-Voronezh
-version:            0.01
+version:            0.02
 abstract:           Talks by Voronezh.pm
 author:
     - Alexander Nusov <alexander.nusov+cpan@gmail.com>

@@ -9,11 +9,11 @@ ACME::PM::Voronezh - Talks by Voronezh.pm
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -38,7 +38,7 @@ L<http://voronezh.pm.org/>
 
 =item * Mailing list
 
-L<http://mail.pm.org/mailman/listinfo/voronezh-pm>
+L<http://groups.google.com/group/voronezh-pm>
 
 =item * Twitter
 
@@ -58,7 +58,7 @@ Alexander Nusov, C<< <alexander.nusov+cpan at gmail.com> >>
 
 =head1 ACKNOWLEDGEMENTS
 
-I am grateful to Dmitry Degtyarev C<< <degtyarev.dm at gmail.com> >>, which inspired the idea of creating the group.
+I am grateful to Dmitry Degtyarev C<< <degtyarev.dm at gmail.com> >> who inspired the idea of creating the group.
 
 
 =head1 LICENSE AND COPYRIGHT
